@@ -1,0 +1,66 @@
+{
+    "An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi": "Facts",
+    "The appeal filed by the accused was dismissed by the Addl":"Ruling of Lower Court",
+    "Disregard of a provision of that nature is fatal to the trial and at once invalidates the conviction":"Precedent",
+    "They can at best be used to contradict in the cross-examination of such a witness when he gives evidence at the Trial Court of the accused in the manner provided under Section 145 of 'the Evidence Act":"Statute",
+    "The whole of the previous statement however cannot be treated as substantive evidence":"Ratio of decision",
+    "According to the prosecution the second Raju was not bestowing sufficient care and attention on the affairs of VESCO":"Argument"
+}
+
+
+dummy_SS_data = [
+    {
+        "1.\n\nThe present appeal by the Assessee is directed against an order dated 10th October, 2017\np a s s e d   b y   t h e   I n c o m e   T a x   A p p e l l a t e   T r i b u n a l ,   C u t t a c k   B e n c h ,   C u t t a c k   ( I T A T )   i n   I T A \nNo.52/CTK/2016 for the Assessment Year (AY) 2011-12.\n\n\n2.": "Ruling of Lower Court"
+    },
+    {
+        "2.\n\nWhile admitting the present appeal on 27th July 2022, the following question was framed for\nconsideration:\n\"Whether the deemed dividend paid by the Orissa Stevedores Ltd. should be taxed in the hands of\nMr. Mahimananda Mishra, the Individual Director who holds shares therein or in the hands of the\nappellant firm of which he is a partner?\"\n\n\n3.": "Category: Arguments"
+    },
+    {
+        "3.\n\nThis Court has heard the submissions of Mr. Saswat Kumar Acharya, learned counsel for the\nAppellant and Mr. Radheshyam Chimanka, learned Senior Standing Counsel for the Revenue\nDepartment.\n\n\n4.\n\nThe facts relevant for the present appeal as set out in the assessment order is that the Assessee is\na Firm engaged in the business of labour contract under the name and style M/s. Mahimananda\nMishra.": "Category: Facts"
+    },
+    {
+        "Admittedly, the said Firm has four partners one of whom is Mr. Mahimananda Mishra\nhaving contributed 20% of the shares of the Firm.\n\nThere are three other partners as well.\n\n\n5.\n\nMr. Mishra also happens to be the Director of M/s. Orissa Stevedores Ltd. (OSL) and in OSL, he\nholds 36.95% shares.\n\n\n6.\n\nDuring the AY in question, OSL gave a unsecured loan of Rs.3,75,78,685/- to the Firm i.e. M/s.\nMahimananda Mishra.\n\nOf this, Rs.1,74,04,185/- was received as cash.": "Facts"
+    },
+    {
+        "Of this, Rs.1,74,04,185/- was received as cash.\n\nThe Assessing Officer (AO)\nM/S. Mahimananda Mishra vs Assistant Commissioner Of Income on 10 January, 2023\nIndian Kanoon - http://indiankanoon.org/doc/156300627/ 1\nproceeded to treat the above unsecured loan as a deemed dividend in the hands of the Firm and\nadded it to the income of the Firm invoking Section 2(22)(e) of the Income Tax Act, 1961 (Act).\n\n\n7.": "Statutes"
+    },
+    {
+        "7.\n\nWhen the Assessee took the matter in appeal to the Commissioner of Income Tax (Appeals),\nCuttack [CIT(A)], it was noted by the CIT(A) in the order dated 16th November, 2015 allowing the\nappeal that in terms of Section 2(22)(e) of the Act, the amount could be treated as deemed dividend\nonly in the hands of shareholder since he is the beneficial owner of the shares in OSL.\n\n\n8.\n\nSection 2(22)(e) of the Act reads as under:\n\"2. (\n\n22).": "Statutes"
+    },
+    {
+        "xxx\n(e) any payment by a company, not being a company in which the public are\nsubstantially interested, of any sum (whether as representing a part of the assets of\nthe company or otherwise) made after the 31st day of May, 1987, by way of advance\nor loan to a shareholder, being a person who is the beneficial owner of shares (not\nbeing shares entitled to a fixed rate of dividend whether with or without a right to\nparticipate in profits) holding not less than ten per cent of the voting power, or to any\nconcern in which such shareholder is a member or a partner and in which he has a\nsubstantial interest (hereafter in this clause referred to as the said concern) or any\npayment by any such company on behalf, or for the individual benefit, of any such\nshareholder, to the extent to which the company in either case possesses accumulated\nprofits;\"\n9.": "Statutes"
+    },
+    {
+        "A plain reading of the above provision indicates that the taxing of the deemed dividend has to be\nin the hands of the shareholder of OSL.\n\nIn the present case, admittedly it is Mr. Mishra in his\nindividual capacity who holds 36.95% of the paid-up share capital of the OSL.\n\nOn the other hand,\nM/s. Mahimananda Mishra, the Firm, does not hold any shares in OSL.\n\nConsequently, this Court\nfinds that the CIT (A) was right in his conclusion in para 6, which reads as under:\n\"6.": "Ruling of Present Court"
+    },
+    {
+        "Thus, the amount should be treated as deemed dividend u/s.2(22)(e) of the Act in\nthe hands of Shri Mahimananda Mishra as discussed above.\n\nThe AO is directed to\ntake remedial measures accordingly.\"\n\n\n10.\n\nThe ITAT in the impugned order has, in the considered view of this Court, needlessly remanded\nthe matter to the CIT (A) on the ground that it was not clear whether deemed dividend should be\ntaxed in the hands of Assessee's partner or in the hands of the Assessee.": "Category: Ruling of Present Court"
+    },
+    {
+        "Since the plain reading of\nSection 2(22)(e) of the Act makes it clear that the deemed dividend is to be taxed in the hands of\nindividual shareholder and not an entity which does not hold shares in OSL, the question of\nremanding the matter to the CIT(A) did not arise.\n\n\n11.": "Ruling of Present Court"
+    },
+    {
+        "11.\n\nFor the aforementioned reasons, the question framed by this Court is answered in favour of the\nAssessee and against the Department by holding that the deemed dividend should be taxed in the\nhands of Mr. Mahimananda Mishra, the individual Director of OSL and not in the hands of the\nM/S. Mahimananda Mishra vs Assistant Commissioner Of Income on 10 January, 2023\nIndian Kanoon - http://indiankanoon.org/doc/156300627/ 2\nAppellant-Assessee, the Firm.\n\n\n12.": "Category: Ruling of Present Court"
+    },
+    {
+        "12.\n\nThe Court re-affirms the conclusion reached in para 6 of the order of the CIT(A).\n\nThe impugned\norder of the ITAT is set aside.\n\n\n13.\n\nThe appeal is accordingly disposed of.\n\n\n(Dr. S. Muralidhar) Chief Justice (M.S. Raman) Judge M. Panda\nM/S. Mahimananda Mishra vs Assistant Commissioner Of Income on 10 January, 2023": "Ruling of Present Court"
+    },
+    {
+        "13.\n\nAn FIR was registered on 23.3.1996 on the statement of one Prakashi Devi": "Facts"
+    },
+    {
+        "14.\n\nThe appeal filed by the accused was dismissed by the Addl":"Ruling of Lower Court"
+    },
+    {
+        "15.\n\nDisregard of a provision of that nature is fatal to the trial and at once invalidates the conviction":"Precedent"
+    },
+    {
+        "16.\n\nThey can at best be used to contradict in the cross-examination of such a witness when he gives evidence at the Trial Court of the accused in the manner provided under Section 145 of 'the Evidence Act":"Statute"
+    },
+    {
+        "17.\n\nThe whole of the previous statement however cannot be treated as substantive evidence":"Ratio of decision"
+    },
+    {
+        "18.\n\nAccording to the prosecution the second Raju was not bestowing sufficient care and attention on the affairs of VESCO":"Argument"
+    }
+]
