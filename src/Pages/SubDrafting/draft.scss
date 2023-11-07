@@ -1,0 +1,49 @@
+.draft-container {
+  //   display: block;
+
+  margin-top: 2vw;
+  .back-btn {
+    display: flex;
+    align-items: center;
+    padding-right: 90vw;
+    padding-left: 5vw;
+    font-size: 15px;
+    font-weight: 600;
+    gap: 0.3vw;
+  }
+  .drag-container {
+    //     height: 30vw;
+    //     width: 40vw;
+    // justify-content: center;
+    //     padding-top: 2vw;
+    //     border-radius: 1vw;
+    border-radius: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // background-color: aqua;
+    border-style: dashed;
+    border-color: gray;
+    margin: 2vw 25vw 1vw 25vw;
+    //
+    min-height: 28vh;
+    .upload {
+      //   padding-bottom: 6%;
+      //   padding-top: 1vw;
+      text-align: center;
+      width: 60%;
+      display: flex;
+      flex-direction: column;
+      gap: 1vw;
+      .colored-text {
+        color: gray;
+        // font-weight: 600;
+      }
+      .colored-drag {
+        font-weight: 600;
+      }
+      .cloud-icon {
+      }
+    }
+  }
+}

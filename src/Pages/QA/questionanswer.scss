@@ -1,0 +1,18 @@
+.chatbox {
+
+    display: block;
+
+  .back-btnn {
+    display: flex;
+    margin-top: 1.5vw;
+    font-size: 16px;
+    font-weight: 600;
+    align-items: center;
+
+    cursor: pointer;
+    margin-left: 3vw;
+    .back-btn-img {
+      margin-right: 6px;
+    }
+  }
+}

@@ -1,0 +1,138 @@
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1.5vw;
+  gap: 2vw;
+  .tax-heading {
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 2.8vw;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 0.529px;
+    align-items: center;
+  }
+
+  .signupform-container {
+    width: 43vw;
+    // height: 25vw;
+    border: 2px solid #000;
+    background: #4e4e4e;
+    border-radius: 1.6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    .signup-title {
+      color: #fff;
+      font-family: "Arial", sans-serif;
+      font-size: 1.5vw;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      letter-spacing: 0.4px;
+      margin-top: 1.5vw;
+      margin-bottom: 0.5vw;
+    }
+    .create-account {
+      color: #fff;
+      font-family: "Poppins", sans-serif;
+      font-size: 1.1vw;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      opacity: 0.6;
+      margin-bottom: 1.7vw;
+    }
+    .inputbox-container {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      gap: 1vw;
+      .inputfield {
+        width: 32.8vw;
+        height: 4vw;
+        flex-shrink: 0;
+        border-radius: 37px;
+        border: 2px solid #fff;
+        color: #fff;
+        font-family: "Arial", sans-serif;
+        font-size: 1vw;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 0.36px;
+        background-color: #4e4e4e;
+        outline: none;
+        padding-left: 2.2vw;
+      }
+
+      .inputfield::placeholder {
+        color: #fff;
+        opacity: 0.7;
+      }
+    }
+
+    .submit-button {
+      margin-top: 2vw;
+      width: 35vw;
+      height: 4vw;
+      border-radius: 2vw;
+      background: #0ab7cc;
+      outline: none;
+      color: #000;
+      font-family: "Arial", sans-serif;
+      font-size: 1vw;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      letter-spacing: 0.36px;
+      border: 2px solid #0ab7cc;
+      cursor: pointer;
+      &.animated-button {
+        transition: background-color 0.2s ease-in-out;
+        &:active {
+          background-color: #0ab7cc;
+        }
+        &:hover {
+          background-color: #0ab7cc;
+        }
+        &:not(:active) {
+          transition-delay: 0.2s;
+        }
+      }
+    }
+  }
+  .singup-account {
+    margin-top: 1.4vw;
+    margin-bottom: 1.7vw;
+    display: flex;
+    gap: 0.7vw;
+    .account {
+      color: #d5d5d5;
+      text-align: center;
+      font-family: "Poppins", sans-serif;
+      font-size: 1.1vw;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    .signup-link {
+      text-decoration: none;
+    }
+    .singup {
+      color: #0ab7cc;
+      font-family: "Poppins", sans-serif;
+      font-size: 1.2vw;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      text-decoration: none;
+    }
+  }
+}

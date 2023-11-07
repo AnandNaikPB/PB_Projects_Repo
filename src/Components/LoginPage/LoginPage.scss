@@ -1,0 +1,15 @@
+.loginForm {
+  /* Add these styles to your SCSS file */
+
+  .image-container {
+    text-align: center;
+    margin-bottom: 20px; /* Add margin as needed */
+  }
+
+  .centered-image {
+    display: block;
+    margin: 0 auto; /* Center horizontally */
+    max-width: 100%; /* Adjust the maximum width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+}

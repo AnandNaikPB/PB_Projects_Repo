@@ -1,0 +1,27 @@
+.content_and_cards {
+  padding: 20px;
+  .content {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    h2 {
+      // margin-top: 50px;
+      // margin-bottom: 50px;
+    }
+    p {
+      // margin-top: 50px;
+      // margin-bottom: 50px;
+    }
+  }
+
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    // margin: 50px 50px;
+    margin: 50px 160px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 2rem;
+  }
+}
